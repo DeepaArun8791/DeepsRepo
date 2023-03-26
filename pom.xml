@@ -170,6 +170,18 @@
     <artifactId>spring-context</artifactId>
     <version>4.3.2.RELEASE</version>
 </dependency>
+    <!-- Other dependencies -->
+    <dependency>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-config</artifactId>
+        <version>6.0.2</version>
+    </dependency>
+    <dependency>
+        <groupId>org.springframework.security</groupId>
+        <artifactId>spring-security-web</artifactId>
+        <version>6.0.2</version>
+    </dependency>
+
 	</dependencies>
 
     <build>
