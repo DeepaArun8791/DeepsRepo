@@ -45,6 +45,11 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
+	    <repository>
+    <id>hibernate-release</id>
+    <url>https://repo1.maven.org/maven2/org/hibernate/hibernate-core/6.2.1.Final/</url>
+</repository>
+
     </repositories>
 
     <pluginRepositories>
